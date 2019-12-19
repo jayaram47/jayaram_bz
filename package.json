@@ -1,0 +1,19 @@
+{
+  "name": "jayaram_bz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayaram47/jayaram_bz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayaram47/jayaram_bz/issues"
+  },
+  "homepage": "https://github.com/jayaram47/jayaram_bz#readme"
+}
